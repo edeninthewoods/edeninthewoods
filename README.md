@@ -19,6 +19,7 @@
 <span><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"> Django</span>
 <span><img src="https://avatars.githubusercontent.com/u/56876897?s=200&v=4" alt="FastAPI" width="40" height="40"> FastAPI</span>
 <span><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"> Flask</span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40"> C#</span>
 <hr>
 
 <h4>Frontend:</h4>
