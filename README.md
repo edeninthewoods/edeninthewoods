@@ -18,8 +18,10 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> Python</span>
 <span><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"> Django</span>
 <span><img src="https://avatars.githubusercontent.com/u/56876897?s=200&v=4" alt="FastAPI" width="40" height="40"> FastAPI</span>
-<span><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"> Flask</span>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40"> C#</span>
+<span><img src="https://github.com/user-attachments/assets/a5ddcd47-008d-4aa9-8876-eb4fc9afda99" alt="Flask" width="40" height="40"> Flask</span>
+<span><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" alt="C#" width="50" height="50"> C-Sharp</span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"> C++</span>
+
 <hr>
 
 <h4>Frontend:</h4>
