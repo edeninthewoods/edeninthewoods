@@ -3,7 +3,7 @@
 
 💬 Ask me about
         <ul>
-          <li>Full Stack Web Development</li>
+          <li>Full Stack Development</li>
           <li>Machine & Deep Learning applications </li>
           <li>Computer Vision applications </li>
           <li>Software-Hardware Integration</li>
